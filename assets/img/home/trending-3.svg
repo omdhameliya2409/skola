@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170.422" height="155.384" viewBox="0 0 170.422 155.384" fill="#838e99">
+  <g id="Group_269" data-name="Group 269" transform="translate(-4957.5 -1553.184)">
+    <path id="ic_desktop_windows_24px" d="M151.383,2H16.038A15.083,15.083,0,0,0,1,17.038v90.23a15.083,15.083,0,0,0,15.038,15.038H68.673v15.038H53.634v15.038h60.153V137.345H98.749V122.307h52.634a15.083,15.083,0,0,0,15.038-15.038V17.038A15.083,15.083,0,0,0,151.383,2Zm0,105.268H16.038V17.038H151.383Z" transform="translate(4959 1553.684)" fill="none" stroke="#838e99" stroke-width="5"/>
+    <g id="Group_268" data-name="Group 268" transform="translate(5004.096 1596.581)">
+      <path id="ic_keyboard_arrow_right_24px" d="M8.59,41,23.836,25.723,8.59,10.444,13.284,5.75,33.257,25.723,13.284,45.7Z" transform="translate(46.908 -5.75)" fill="none" stroke="#838e99" stroke-width="5"/>
+      <path id="ic_keyboard_arrow_right_24px-2" data-name="ic_keyboard_arrow_right_24px" d="M33.257,41,18.011,25.723,33.257,10.444,28.563,5.75,8.59,25.723,28.563,45.7Z" transform="translate(-8.59 -5.75)" fill="none" stroke="#838e99" stroke-width="5"/>
+    </g>
+  </g>
+</svg>
